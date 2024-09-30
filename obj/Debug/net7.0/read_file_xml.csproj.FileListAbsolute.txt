@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\read_file_xml\bin\Debug\net7.0\read_file_xml.exe
+C:\Users\ASUS\Desktop\New folder\read_file_xml\bin\Debug\net7.0\read_file_xml.deps.json
+C:\Users\ASUS\Desktop\New folder\read_file_xml\bin\Debug\net7.0\read_file_xml.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\read_file_xml\bin\Debug\net7.0\read_file_xml.dll
+C:\Users\ASUS\Desktop\New folder\read_file_xml\bin\Debug\net7.0\read_file_xml.pdb
+C:\Users\ASUS\Desktop\New folder\read_file_xml\obj\Debug\net7.0\read_file_xml.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\read_file_xml\obj\Debug\net7.0\read_file_xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\read_file_xml\obj\Debug\net7.0\read_file_xml.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\read_file_xml\obj\Debug\net7.0\read_file_xml.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\read_file_xml\obj\Debug\net7.0\read_file_xml.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\read_file_xml\obj\Debug\net7.0\read_file_xml.dll
+C:\Users\ASUS\Desktop\New folder\read_file_xml\obj\Debug\net7.0\refint\read_file_xml.dll
+C:\Users\ASUS\Desktop\New folder\read_file_xml\obj\Debug\net7.0\read_file_xml.pdb
+C:\Users\ASUS\Desktop\New folder\read_file_xml\obj\Debug\net7.0\read_file_xml.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\read_file_xml\obj\Debug\net7.0\ref\read_file_xml.dll
